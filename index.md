@@ -1,8 +1,8 @@
-![加油](https://octodex.github.com/images/yaktocat.png)
 
-
+```
 $ git init
-
-
-var myVar = "Hello world!";
-
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
